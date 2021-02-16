@@ -117,7 +117,7 @@ implement nested list comp in any use case
 """
 
 list_Kvalues={'name':'test','language':'py','creator':'Jithin','color':'green'}
-print(list_Kvalues.keys())
+
 key_grt_than_four = {k for k in list_Kvalues.keys() if len(k) >4 }
 
 print(key_grt_than_four)
