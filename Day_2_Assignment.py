@@ -54,6 +54,67 @@ for Key,Value in a_dict.items():
     print("\n")    
 
 
+"""
+Demonstrate the else clause being invoked in a while loop. try the opposite as well.
+"""
+
+num = 1
+
+while num < 5:
+
+    print(num)
+
+    num += 1
+
+else:
+
+    print("The  number is greater than 5")
+
+
+
+num = 1
+
+while num < 5:
+
+    print(num)
+
+    num += 1
+
+    if num == 5:
+
+      break
+
+else:
+
+    print("The  number is not less than 5")
+
+"""
+write an add function that accepts two numbers and returns their sum 
+use type hints
+use docstring
+"""
+
+def add(num1: int, num2: int) -> int:
+
+    '''Accept num1 and num2 then returns the sum value'''
+
+    sum = num1 + num2
+
+    return sum
+
+    
+
+print(add(2, 3))
+
+print(add(6, 10))
+
+a = int(input("Enter first number: "))
+
+b = int(input("Enter second number: "))
+
+print(add.__doc__)
+
+print(add(a, b))
 
 
 """
