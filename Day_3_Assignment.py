@@ -40,7 +40,7 @@ print (Output)
 
 #set of all balances {2000, -52, 900}
 
-balance_list = [name[1] for name in [item for item in new_dict]][:-1]
+balance_list = [name for (_, name, _) in [item for item in new_dict]][:-1]
 
 print (balance_list)
 
@@ -49,10 +49,13 @@ account_holders=[name[0] for name in [item for item in new_dict]]
 
 print (account_holders)
 
+#dict of user and money each need to fulfill the min balance requirement (those who already have enough bal should not be in the dict) {"Raymond": 1052, "Jack": 100}
+rem_Balance_Dict = {name : min-balance for (name, balance, min) in new_dict if min > balance}     #3.d
 
+print(rem_Balance_Dict)
 
 #list of tuples with name and current balance if the balance is above 0 [("Guide", 2000), ("Jack", 900), ("Brandon", 2000)]
-account_holders=[name[0:2] for name in [item for item in new_dict if item[1]>0]]
+account_holders=[(name,balance) for (name,balance,_)  in new_dict if balance>0]
 print (account_holders)
 
 
