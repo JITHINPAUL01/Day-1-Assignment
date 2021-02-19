@@ -175,3 +175,14 @@ while i <= attempt:
     if i > attempt:
 
         raise ValueError("OOPS..you are out of try. The Number is ", constant)
+        
+        
+"""
+use requests to grab contents of a web page and print the page title 
+"""
+import requests
+
+resp=requests.get("http://www.google.com")
+print(resp.text)
+
+
