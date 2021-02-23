@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Developer with color text</title>
+</head>
+<body>
+    
+    {% if colorname %}
+        
+<h1 style="color : {{colorname}}">Hello ,I am developer with given text color {{ colorname }}!</h1>
+    {% else %}
+        <h1>Hello no color {{ colorname }}!</h1>
+    {% endif %}
+
+</body>
+</html>
