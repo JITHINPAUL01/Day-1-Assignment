@@ -1,0 +1,347 @@
+18/03/2021 21:50:52 Post method to add loan details 
+  
+ 18/03/2021 22:01:01 Inside the User registration Method:Post 
+  
+ 18/03/2021 22:05:14 Inside the User registration Method:Post 
+  
+ 18/03/2021 22:06:15 Inside the User registration Method:Post 
+  
+ 18/03/2021 22:06:16 Craeted a new User in Database 
+  
+ 18/03/2021 22:12:34 Inside the User registration Method:Post 
+  
+ 18/03/2021 22:14:59 Inside the User registration Method:Post 
+  
+ 18/03/2021 22:15:17 Inside the User registration Method:Post 
+  
+ 18/03/2021 22:15:19 Craeted a new User in Database 
+  
+ 18/03/2021 22:31:57 Inside update user details 
+  
+ 18/03/2021 22:33:54 Inside update user details 
+  
+ 18/03/2021 22:48:29 Inside update user details 
+  
+ 18/03/2021 22:51:42 Inside update user details 
+  
+ 18/03/2021 22:52:57 Inside update user details 
+  
+ 18/03/2021 22:55:01 Inside update user details 
+  
+ 18/03/2021 22:59:17 Inside update user details 
+  
+ 18/03/2021 23:02:54 Inside update user details 
+  
+ 18/03/2021 23:05:48 Inside update user details 
+  
+ 18/03/2021 23:12:45 Inside update user details 
+  
+ 24/03/2021 10:57:31 Get method to get the detail of the user 
+  
+ 24/03/2021 10:57:31 Get method found the requested user detail 
+  
+ 24/03/2021 10:57:41 Get method to get the Loan detail of the user 
+  
+ 24/03/2021 10:57:41 Found Loan detail of the user 
+  
+ 24/03/2021 10:57:48 Get method to get the Loan detail of the user 
+  
+ 24/03/2021 10:57:48 No Loan details exist of the user 
+  
+ 24/03/2021 13:24:59 Get method to get the Loan detail of the user 
+  
+ 24/03/2021 13:24:59 No Loan details exist of the user 
+  
+ 24/03/2021 13:25:06 Get method to get the Loan detail of the user 
+  
+ 24/03/2021 13:25:06 Found Loan detail of the user 
+  
+ 25/03/2021 11:41:39 Inside the User registration Method:Post 
+  
+ 25/03/2021 11:44:22 Inside the User registration Method:Post 
+  
+ 25/03/2021 11:49:06 Inside the User registration Method:Post 
+  
+ 25/03/2021 11:51:53 Inside the User registration Method:Post 
+  
+ 25/03/2021 11:51:55 Craeted a new User in Database 
+  
+ 25/03/2021 12:02:19 Inside the User registration Method:Post 
+  
+ 25/03/2021 12:02:35 Inside the User registration Method:Post 
+  
+ 25/03/2021 12:37:19 Inside the User registration Method:Post 
+  
+ 25/03/2021 13:00:15 Post method to add loan details 
+  
+ 25/03/2021 13:00:15 Loan Data created for User 
+  
+ 25/03/2021 13:05:08 Post method to add loan details 
+  
+ 25/03/2021 13:05:23 Post method to add loan details 
+  
+ 25/03/2021 13:06:35 Post method to add loan details 
+  
+ 25/03/2021 13:06:35 Loan Data created for User 
+  
+ 25/03/2021 13:08:56 Post method to add loan details 
+  
+ 25/03/2021 13:12:39 Get method to get the detail of the user 
+  
+ 25/03/2021 13:14:38 Inside update user details 
+  
+ 25/03/2021 13:19:01 Inside the User registration Method:Post 
+  
+ 25/03/2021 13:19:03 Craeted a new User in Database 
+  
+ 25/03/2021 14:10:45 Get method to get the detail of the user 
+  
+ 25/03/2021 14:10:45 Get method found the requested user detail 
+  
+ 25/03/2021 14:10:46 Inside update user details 
+  
+ 25/03/2021 14:10:47 Inside update user details 
+  
+ 25/03/2021 14:10:47 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:10:47 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:10:48 Post method to add loan details 
+  
+ 25/03/2021 14:10:50 Post method to add loan details 
+  
+ 25/03/2021 14:21:55 Get method to get the detail of the user 
+  
+ 25/03/2021 14:21:55 Get method found the requested user detail 
+  
+ 25/03/2021 14:21:56 Inside update user details 
+  
+ 25/03/2021 14:21:57 Inside update user details 
+  
+ 25/03/2021 14:21:57 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:21:57 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:21:58 Post method to add loan details 
+  
+ 25/03/2021 14:21:59 Post method to add loan details 
+  
+ 25/03/2021 14:28:46 Get method to get the detail of the user 
+  
+ 25/03/2021 14:28:46 Get method found the requested user detail 
+  
+ 25/03/2021 14:28:47 Inside update user details 
+  
+ 25/03/2021 14:28:48 Inside update user details 
+  
+ 25/03/2021 14:28:48 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:28:48 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:28:49 Post method to add loan details 
+  
+ 25/03/2021 14:29:00 Post method to add loan details 
+  
+ 25/03/2021 14:30:37 Get method to get the detail of the user 
+  
+ 25/03/2021 14:30:37 Get method found the requested user detail 
+  
+ 25/03/2021 14:30:38 Inside update user details 
+  
+ 25/03/2021 14:30:39 Inside update user details 
+  
+ 25/03/2021 14:30:39 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:30:39 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:30:40 Post method to add loan details 
+  
+ 25/03/2021 14:30:51 Post method to add loan details 
+  
+ 25/03/2021 14:35:28 Get method to get the detail of the user 
+  
+ 25/03/2021 14:35:28 Get method found the requested user detail 
+  
+ 25/03/2021 14:35:29 Inside update user details 
+  
+ 25/03/2021 14:35:30 Inside update user details 
+  
+ 25/03/2021 14:35:30 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:35:30 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:35:31 Post method to add loan details 
+  
+ 25/03/2021 14:35:42 Post method to add loan details 
+  
+ 25/03/2021 14:36:51 Post method to add loan details 
+  
+ 25/03/2021 14:36:51 Loan Data created for User 
+  
+ 25/03/2021 14:36:52 Get method to get the detail of the user 
+  
+ 25/03/2021 14:36:52 Get method found the requested user detail 
+  
+ 25/03/2021 14:36:53 Inside update user details 
+  
+ 25/03/2021 14:36:54 Inside update user details 
+  
+ 25/03/2021 14:36:54 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:36:54 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:36:55 Post method to add loan details 
+  
+ 25/03/2021 14:38:25 Post method to add loan details 
+  
+ 25/03/2021 14:38:25 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:38:26 Craeted a new User in Database 
+  
+ 25/03/2021 14:38:28 Get method to get the detail of the user 
+  
+ 25/03/2021 14:38:28 Get method found the requested user detail 
+  
+ 25/03/2021 14:38:29 Inside update user details 
+  
+ 25/03/2021 14:38:30 Inside update user details 
+  
+ 25/03/2021 14:38:30 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:38:30 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:38:31 Post method to add loan details 
+  
+ 25/03/2021 14:42:19 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:42:21 Craeted a new User in Database 
+  
+ 25/03/2021 14:49:17 Post method to add loan details 
+  
+ 25/03/2021 14:49:17 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:49:18 Get method to get the detail of the user 
+  
+ 25/03/2021 14:49:18 Get method found the requested user detail 
+  
+ 25/03/2021 14:49:20 Inside update user details 
+  
+ 25/03/2021 14:49:21 Inside update user details 
+  
+ 25/03/2021 14:49:21 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:49:21 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:49:22 Post method to add loan details 
+  
+ 25/03/2021 14:51:16 Post method to add loan details 
+  
+ 25/03/2021 14:51:17 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:51:18 Get method to get the detail of the user 
+  
+ 25/03/2021 14:51:18 Get method found the requested user detail 
+  
+ 25/03/2021 14:51:19 Inside update user details 
+  
+ 25/03/2021 14:51:20 Inside update user details 
+  
+ 25/03/2021 14:51:20 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:51:20 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:51:21 Post method to add loan details 
+  
+ 25/03/2021 14:56:08 Post method to add loan details 
+  
+ 25/03/2021 14:56:08 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:56:09 Get method to get the detail of the user 
+  
+ 25/03/2021 14:56:09 Get method found the requested user detail 
+  
+ 25/03/2021 14:56:10 Inside update user details 
+  
+ 25/03/2021 14:56:11 Inside update user details 
+  
+ 25/03/2021 14:56:11 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:56:11 Inside the User registration Method:Post 
+  
+ 25/03/2021 14:56:13 Post method to add loan details 
+  
+ 25/03/2021 15:05:40 Post method to add loan details 
+  
+ 25/03/2021 15:05:40 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:05:41 Get method to get the detail of the user 
+  
+ 25/03/2021 15:05:41 Get method found the requested user detail 
+  
+ 25/03/2021 15:05:42 Inside update user details 
+  
+ 25/03/2021 15:05:43 Inside update user details 
+  
+ 25/03/2021 15:05:43 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:05:43 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:05:44 Post method to add loan details 
+  
+ 25/03/2021 15:09:46 Post method to add loan details 
+  
+ 25/03/2021 15:09:46 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:09:47 Get method to get the detail of the user 
+  
+ 25/03/2021 15:09:47 Get method found the requested user detail 
+  
+ 25/03/2021 15:09:48 Inside update user details 
+  
+ 25/03/2021 15:09:49 Inside update user details 
+  
+ 25/03/2021 15:09:49 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:09:49 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:09:50 Post method to add loan details 
+  
+ 25/03/2021 15:11:54 Post method to add loan details 
+  
+ 25/03/2021 15:11:54 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:11:55 Get method to get the detail of the user 
+  
+ 25/03/2021 15:11:55 Get method found the requested user detail 
+  
+ 25/03/2021 15:11:56 Inside update user details 
+  
+ 25/03/2021 15:11:57 Inside update user details 
+  
+ 25/03/2021 15:11:57 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:11:57 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:11:58 Post method to add loan details 
+  
+ 25/03/2021 15:13:18 Post method to add loan details 
+  
+ 25/03/2021 15:13:18 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:13:19 Craeted a new User in Database 
+  
+ 25/03/2021 15:13:20 Get method to get the detail of the user 
+  
+ 25/03/2021 15:13:20 Get method found the requested user detail 
+  
+ 25/03/2021 15:13:21 Inside update user details 
+  
+ 25/03/2021 15:13:22 Inside update user details 
+  
+ 25/03/2021 15:13:22 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:13:22 Inside the User registration Method:Post 
+  
+ 25/03/2021 15:13:24 Post method to add loan details 
+  
+ 
